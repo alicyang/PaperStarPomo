@@ -12,3 +12,5 @@ PaperStarPomo is a productivity web app that makes using the Pomodoro Technique 
 ## Deployment
 
 The app is deployed and available at: [PaperStarPomo](https://alicyang.github.io/PaperStarPomo/)
+
+![Pomodoro App Preview](./src/assets/pomoScreenshot.png)
