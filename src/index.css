@@ -1,0 +1,17 @@
+:root {
+    font-family: "Montserrat", "Source Sans 3", "Inter", "system-ui", "Avenir",
+        "Helvetica", "Arial", "sans-serif";
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./assets/v904-nunny-019.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    font-family: 'Roboto';
+}
